@@ -4,3 +4,4 @@ Demostrating [What Is Fuzzy Logic? | Fuzzy Logic, Part 1 - YouTube](https://www.
 
 ### Notes
 - There may be some CMake configuration missed. Check [official examples](https://github.com/fuzzylite/fuzzylite/tree/release/examples)
+- For `fl::Ramp` class, the `start` is the tip of the trapezoid membership function
